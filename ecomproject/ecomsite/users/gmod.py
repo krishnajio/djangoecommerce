@@ -1,0 +1,3 @@
+class Userdata():
+    cusername = ""
+    cuserid=  ""
